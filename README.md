@@ -153,7 +153,7 @@ student_df.groupby(["school_type", "grade"], as_index=False)["math_score"].mean(
 ## 6. Written Analysis
 
 - The data frame has a total of 14831 students in grades nine through twelve.
-- Overall, the average reading score (72.36) fo all students is higher than the average math score (64.68).
+- Overall, the average reading score (72.36) for all students is higher than the average math score (64.68).
 - Grade 9 has an average reading score of 69.24 and an average math scores of 66.59
 - Public schools have a higher budget compared to charter schools. However, charter school students have higher math scores than public schools.
 - Montgomery High School is the school with the largest student body consisting of 2,038 students compared to Chang High School, which has 171 students. 
